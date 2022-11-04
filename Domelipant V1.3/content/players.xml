@@ -1,0 +1,10 @@
+<players root="gfx/characters/costumes/"
+        portraitroot="gfx/ui/boss/"
+        nameimageroot="gfx/ui/boss/"
+        bigpottraitroot="gfx/ui/stage/">
+        <player name="Domelipant" skin="character_Domelipant.png" hp="6" bombs="0" keys="1" items="78" 
+        nameimage="PlayerName_01_Domelipant.png"
+        portrait="PlayerPortrait_01_Domelipant.png"
+        bigportrait="PlayerBigPortrait_01_Domelipant.png" skinColor="-1"
+        birhtright="Basta sos re lindo"/>
+</players>        
